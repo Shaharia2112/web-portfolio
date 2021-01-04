@@ -51,6 +51,7 @@
         background-image:url("image/exp-bg.png");
         background-repeat: no-repeat;
         background-position: left;
+        overflow: hidden;
     }
 
     .single-exprience{
