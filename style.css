@@ -52,6 +52,7 @@
         background-repeat: no-repeat;
         background-position: left;
         overflow: hidden;
+        overflow: scroll;
     }
 
     .single-exprience{
