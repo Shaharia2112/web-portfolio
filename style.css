@@ -19,8 +19,18 @@ h1{
 }
 section{
     height:500px;
+    padding-bottom:150px;
 }
 .top-banner{
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(123, 241, 5);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-image:linear-gradient(50deg, rgb(4, 240, 4), rgb(241, 81, 53))
 }
