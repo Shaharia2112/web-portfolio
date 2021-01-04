@@ -51,7 +51,8 @@ section{
     background-image:url("image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-    //overflow:scroll
+    overflow:scroll;
+    overflow: hidden;
 }
 .single-exprience{
     box-shadow: 10px 10px 40px grey;
@@ -74,5 +75,3 @@ section{
 footer p{
     text-align:center;
 }
-.experience-area div{
-    overflow: hidden; }
